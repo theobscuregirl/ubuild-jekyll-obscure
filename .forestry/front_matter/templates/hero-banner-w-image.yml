@@ -48,3 +48,9 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- type: color
+  config:
+    color_format: Hex
+  label: Background color
+  name: background_color
+  hidden: false
