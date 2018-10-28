@@ -13,10 +13,7 @@ page_sections:
     button_text: open book
   image:
     alt_text: ''
-  background_image: "/uploads/2018/10/28/IMG_20180903_211914_280.jpg"
-- template: simple-footer
-  block: footer-1
-  content: made in manila ❤︎
+  background_image: ''
 
 ---
 foo bar
