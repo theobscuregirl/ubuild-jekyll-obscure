@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Home
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
@@ -12,7 +12,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: open book
   image:
-    alt_text: Product Shot
+    alt_text: ''
+  background_image: "/uploads/2018/10/28/IMG_20180903_211914_280.jpg"
 - template: simple-footer
   block: footer-1
   content: made in manila ❤︎
