@@ -14,7 +14,7 @@ page_sections:
   image:
     alt_text: ''
   background_image: ''
-  background_color: "#E986AC"
+  background_color: "#E4E986"
 
 ---
 foo bar
