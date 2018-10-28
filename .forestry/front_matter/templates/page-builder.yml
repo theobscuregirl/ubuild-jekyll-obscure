@@ -33,5 +33,4 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- home.md
 - index.md
